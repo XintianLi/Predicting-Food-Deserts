@@ -6,4 +6,5 @@
 
 MUSA 620 Final Project by Xintian Li, Yujing Wu, Hanyong Xu
 
-The above two buttoms take you to the data visualization panels. For analysis notebooks go to this [folder](Analysis). Data used and ouputs are saved [here](Data).
+The above two buttoms take you to the data visualization panel app and its notebook. 
+For analysis notebooks go to this [folder](Analysis). Data used and ouputs are saved [here](Data).
