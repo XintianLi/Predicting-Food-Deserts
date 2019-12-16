@@ -6,4 +6,4 @@
 
 MUSA 620 Final Project by Xintian Li, Yujing Wu, Hanyong Xu
 
-The above two buttoms take you to the data visualization panels. For analysis notebooks go to this folder[Predicting-Food-Deserts](Analysis). Data used and ouputs are saved here[Predicting-Food-Deserts](Data).
+The above two buttoms take you to the data visualization panels. For analysis notebooks go to this [folder](Analysis). Data used and ouputs are saved here(Data).
